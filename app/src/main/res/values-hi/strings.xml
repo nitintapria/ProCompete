@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्रो प्रतिस्पर्धा</string>
+    <string name="follow_category">श्रेणी का चयन करें</string>
+    <string name="followed_categories">चयनित श्रेणी</string>
+    <string name="select_category">श्रेणी का चयन करें</string>
+    <string name="sign_out">साइन आउट</string>
+    <string name="start_quiz">प्रश्नोत्तरी शुरू करें</string>
+    <string name="unfollow">श्रेणी को हटा दें</string>
+    <string name="your_score_is">आपका स्कोर है</string>
+    <string name="back">वापस</string>
+    <string name="feedback">प्रतिक्रिया दें</string>
+    <string name="type_your_valuable_feedback_here">यहां अपनी मूल्यवान प्रतिक्रिया टाइप करें</string>
+    <string name="submit">फीडबैक रजिस्टर करें</string>
+    <string name="feedback_toast">प्रतिक्रिया के लिए आपका धन्यवाद!</string>
+</resources>

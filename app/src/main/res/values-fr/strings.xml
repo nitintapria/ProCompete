@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProCompete</string>
+    <string name="sign_out" translatable="false">Se déconnecter</string>
+    <string name="select_category">Choisir une catégorie</string>
+    <string name="start_quiz">Commencer un quiz</string>
+    <string name="unfollow">Ne pas suivre</string>
+    <string name="your_score_is">Votre score est</string>
+    <string name="followed_categories">Catégorie suivi</string>
+    <string name="follow_category">Suivre la catégorie</string>
+    <string name="back">Arrière</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="type_your_valuable_feedback_here">Tapez votre précieux commentaire ici</string>
+    <string name="submit">Soumettre</string>
+    <string name="feedback_toast">Merci pour votre retour!</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942020236522",
+    "firebase_url": "https://procompete.firebaseio.com",
+    "project_id": "procompete",
+    "storage_bucket": "procompete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942020236522:android:1b09e8137c2e9521",
+        "android_client_info": {
+          "package_name": "com.csaminorproject.www.procompete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942020236522-lv7i6akdvp32ca68t7imf8i3pjh6nhic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csaminorproject.www.procompete",
+            "certificate_hash": "1af70ca56b5a8ad076825e2bd318c003ceb67d06"
+          }
+        },
+        {
+          "client_id": "942020236522-bjto5gj4u19a45ktrp8v14une7n11nck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Eor-XDpcXKflIWIVy_v31wstjuK-eiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942020236522-bjto5gj4u19a45ktrp8v14une7n11nck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

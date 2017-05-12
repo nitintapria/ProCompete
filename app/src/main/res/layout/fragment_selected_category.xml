@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.csaminorproject.www.procompete.SelectedCategoryFragment">
+
+    <TextView
+        android:id="@+id/textView_selectedCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:background="@color/colorPrimary"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:id="@+id/hideSelectedCategoryFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/ic_cancel_white_24dp"
+        android:layout_marginTop="7dp"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/textView_takeQuiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:background="@drawable/rounded_corner"
+        android:textColor="#FFFFFF"
+        android:text="@string/start_quiz"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/textView_removeCategory"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView_removeCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/unfollow"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginBottom="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
